@@ -4,7 +4,7 @@ Selamat datang di repositori profil resmi **KLT Game**. Kami adalah platform med
 
 ## 🚀 Website Utama
 Temukan informasi game terbaru, spesifikasi minimum perangkat, tips gameplay, dan link unduhan resmi langsung di situs utama kami:
-👉 **[KLT Game Official Website](https://kltgame.co/)**
+👉 **[KLT Game Official Website](https://www.kltgame.co/)**
 
 ---
 
@@ -24,8 +24,8 @@ Ikuti pembaruan artikel harian, tonton keseruan kami, atau hubungi kami melalui 
 ---
 
 ## 📂 Kategori Utama di KLT Game:
-* 📱 **[Review Game Android](https://kltgame.co/)** - Kupas tuntas performa game mobile terbaru.
-* 💻 **[Panduan Game PC](https://kltgame.co/)** - Tips, trik, konfigurasi grafik, dan cara mengatasi lag.
+* 📱 **[Review Game Android](https://www.kltgame.co/)** - Kupas tuntas performa game mobile terbaru.
+* 💻 **[Panduan Game PC](https://www.kltgame.co/)** - Tips, trik, konfigurasi grafik, dan cara mengatasi lag.
 
 ---
 *Hubungi kami atau ikuti pembaruan artikel harian melalui platform resmi di atas. Repositori ini diatur dan dikelola langsung oleh tim teknis KLT Game.*
